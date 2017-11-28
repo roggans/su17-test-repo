@@ -1,2 +1,3 @@
 # su17-test-repo
-A test repository
+
+Created on a rainy November day.
